@@ -27,7 +27,7 @@ body {
   font-weight: bolder;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 400px) {
   .container {
     width: 100%;
   }
