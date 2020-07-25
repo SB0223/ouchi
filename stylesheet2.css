@@ -14,6 +14,7 @@ body {
 .top-wrapper p {
   line-height: 50px;
   font-size: 30px;
+  width: 1024px;
 }
 
 .top-wrapper {
