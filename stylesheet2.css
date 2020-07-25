@@ -1,0 +1,27 @@
+body {
+  background-image: url(IMG_0420.jpeg);
+  background-size: cover;
+  font-family: 'Bradley Hand','Hannotate TC',sans-serif;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.top-wrapper h1 {
+  font-size: 70px;
+}
+
+.top-wrapper p {
+  line-height: 50px;
+  font-size: 30px;
+}
+
+.top-wrapper {
+  background-color: rgba(255, 255, 255, 0.2);
+  text-align:center;
+  margin-top: 400px;
+  color: black;
+  font-weight: bolder;
+}
