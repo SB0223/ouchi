@@ -137,4 +137,7 @@ iframe {
   .container {
     width: 100%;
   }
+  .menu {
+    float: none
+  }
 }
