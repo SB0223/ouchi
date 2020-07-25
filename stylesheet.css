@@ -136,8 +136,6 @@ iframe {
 @media screen and (max-width: 900px) {
   .container {
     width: 100%;
-  }
-  .menu {
-    float: none
+    float: none;
   }
 }
