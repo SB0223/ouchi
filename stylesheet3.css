@@ -1,0 +1,41 @@
+body {
+  font-family: 'Bradley Hand','Hannotate TC',sans-serif;
+  background-image: url(paper-bg-01のコピー.jpg);
+}
+
+.top-wrapper {
+  text-align: center;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+.top-wrapper h1 {
+  font-size: 70px;
+}
+
+.list-left {
+  float: left;
+  width: 50%;
+  font-size: 40px;
+}
+
+.list-right {
+  float: right;
+  width: 50%;
+  font-size: 40px;
+}
+
+.clear {
+  clear: both;
+}
+
+dd {
+  margin-left: 130px;
+}
+
+p {
+  float: right;
+}
