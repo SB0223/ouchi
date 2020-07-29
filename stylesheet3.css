@@ -39,9 +39,3 @@ dd {
 p {
   float: right;
 }
-
-@media screen and (max-width: 750px) {
-  .container {
-    width: 100%;
-  }
-}
