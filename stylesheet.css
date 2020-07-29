@@ -132,10 +132,3 @@ iframe {
   float: left;
   width:500px;
 }
-
-@media screen and (max-width: 750px) {
-  .container {
-    width: 100%;
-    float: none;
-  }
-}
