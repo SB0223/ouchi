@@ -25,11 +25,3 @@ body {
   font-weight: bolder;
 }
 
-@media screen and (max-width: 480px) {
-  body {
-    width: 100%;
-  }
-  .top-wrpper {
-    width: 100%;
-}
-}
